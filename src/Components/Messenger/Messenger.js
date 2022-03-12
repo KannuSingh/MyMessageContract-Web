@@ -32,7 +32,13 @@ function Message(props) {
   return (
     <li className="message-container">
       <div className="message-sender-address">
-        <button className="copy-icon-btn">
+        <button
+          className="copy-icon-btn"
+          onClick={() => {
+            navigator.clipboard.writeText(props.message.address);
+          }}
+        >
+          <span className="copy-tooltip-text">Copy</span>
           <MdContentCopy />
         </button>
         {props.message.address}
