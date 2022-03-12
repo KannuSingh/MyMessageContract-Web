@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MyMessageContract-Web/static/css/main.3e4163df.css",
+    "main.css": "/MyMessageContract-Web/static/css/main.152f5e9a.css",
     "main.js": "/MyMessageContract-Web/static/js/main.8ca031d4.js",
     "static/js/787.102f65de.chunk.js": "/MyMessageContract-Web/static/js/787.102f65de.chunk.js",
     "index.html": "/MyMessageContract-Web/index.html",
-    "main.3e4163df.css.map": "/MyMessageContract-Web/static/css/main.3e4163df.css.map",
+    "main.152f5e9a.css.map": "/MyMessageContract-Web/static/css/main.152f5e9a.css.map",
     "main.8ca031d4.js.map": "/MyMessageContract-Web/static/js/main.8ca031d4.js.map",
     "787.102f65de.chunk.js.map": "/MyMessageContract-Web/static/js/787.102f65de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e4163df.css",
+    "static/css/main.152f5e9a.css",
     "static/js/main.8ca031d4.js"
   ]
 }
