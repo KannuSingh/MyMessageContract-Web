@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { MdContentCopy } from 'react-icons/md';
 import './Messenger.css';
 
 function Messenger(props) {
@@ -30,6 +31,13 @@ function Messenger(props) {
 function Message(props) {
   return (
     <li className="message-container">
+      <div className="message-sender-address">
+        <button className="copy-icon-btn">
+          <MdContentCopy />
+        </button>
+        {props.message.address}
+      </div>
+
       <div className="message">{props.message.text}</div>
       <div className="message-timestamp">
         {props.message.timestamp.toLocaleDateString('en-US')}

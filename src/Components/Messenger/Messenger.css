@@ -59,6 +59,19 @@
   padding: 0.4em;
   border-top: 1px solid #ddd;
 }
+.copy-icon-btn {
+  background: none;
+  border: 0px;
+  cursor: pointer;
+}
+.message-sender-address {
+  font-size: x-small;
+  width: 120px;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
 
 .message {
   background-color: #ddd;
@@ -71,4 +84,5 @@
   margin: 0 12px;
   padding: 0 0.5em;
   font-size: small;
+  align-self: flex-end;
 }
