@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyMessageContract-Web/static/css/main.82d3f18e.css",
+    "main.js": "/MyMessageContract-Web/static/js/main.8f1abd01.js",
+    "static/js/787.102f65de.chunk.js": "/MyMessageContract-Web/static/js/787.102f65de.chunk.js",
+    "index.html": "/MyMessageContract-Web/index.html",
+    "main.82d3f18e.css.map": "/MyMessageContract-Web/static/css/main.82d3f18e.css.map",
+    "main.8f1abd01.js.map": "/MyMessageContract-Web/static/js/main.8f1abd01.js.map",
+    "787.102f65de.chunk.js.map": "/MyMessageContract-Web/static/js/787.102f65de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82d3f18e.css",
+    "static/js/main.8f1abd01.js"
+  ]
+}
